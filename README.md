@@ -1,7 +1,31 @@
 ## :smile_cat: Hello! I'm interested in Front-End.
 
-<div align=center><a  href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphoenix9373%2FTIL&count_bg=%23FFA800&title_bg=%237C7C7C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a></div>
-
+🔨<b>Tech Stack</b>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-component-DB7093?style=flat-square&logo=styled-component&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+<br>
+<br>
+🔨<b>Framework</b>
+<br>
+<img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-4.1.0-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-3.1.0-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<br>
+<br>
+🔨<b>Tool</b>
+<br>
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<br>
+<br>
 ### :blush: Welcome to my github.
 
 <!--
@@ -22,7 +46,7 @@ Here are some ideas to get you started:
 
 | Used Programming Languages                                   | Programming Languages                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jes5918)](https://github.com/anuraghazra/github-readme-stats) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jes5918&langs_count=8&layout=compact&hide=python,java,html,jupyter%20notebook&theme=dracula) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jes5918&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jes5918&langs_count=8&layout=compact&hide=python,java,html,jupyter%20notebook&theme=dracula) |
 
 
 
