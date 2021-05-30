@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
   -  HTML, CSS, Javascript(ES6+)
-  -  React, Typescript,React-Native, Redux..
+  -  React, Typescript, React-Native, Redux..
