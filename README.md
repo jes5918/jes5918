@@ -1,6 +1,6 @@
-## :smile_cat: Hello! I'm interested in Front-End.
+## :smile_cat: Hello! I'm interested in web & application development
 
-🔨<b>Tech Stack</b>
+<!-- 🔨<b>Tech Stack</b>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br>
-<br>
+<br> -->
 ### :blush: Welcome to my github.
 
 <!--
@@ -44,12 +44,20 @@ Here are some ideas to get you started:
 
 
 
-| Used Programming Languages                                   | Programming Languages                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jes5918&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jes5918&langs_count=8&layout=compact&hide=python,java,html,jupyter%20notebook&theme=dracula) |
+| Used Programming Languages                                   |
+| ------------------------------------------------------------ | 
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jes5918&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 
-- 🌱 I’m currently learning ...
-  -  HTML, CSS, Javascript(ES6+)
-  -  React, Typescript, React-Native, Redux..
+- 🌱 I’m currently learning & skill up ...
+  -  HTML, CSS, Javascript, Typescript
+  -  React, Vue, Svelte, React-Native, Redux, Next.js, PWA, Jest, Styled-component
+  -  Node.js, express, Nest.js, Java, Spring, Django, Python
+  -  MariaDB, InfluxDB, MySQL, Redis
+  -  Linux, Ubuntu, Shell Script
+  -  Git, Jira, Confluence
+  -  Apache2, nginx
+  -  Jenkins, Pm2, Docker, Docker-compose, Kubernetes
+  -  AWS, Azure, Cloud Service
+  -  Application 7 Layer, TCP, UDP, OOP, FP, Avahi
